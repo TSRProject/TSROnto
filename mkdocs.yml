@@ -47,3 +47,7 @@ markdown_extensions:
 
 nav:
     - Home: index.md
+
+extra:
+  version:
+    provider: mike
