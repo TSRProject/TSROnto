@@ -83,5 +83,5 @@ plugins:
   - search
 
 
-  copyright: |
+  copyright: 
     &copy; 2023 <a href="https://github.com/TSRProject"  target="_blank" rel="noopener">TSR</a>
