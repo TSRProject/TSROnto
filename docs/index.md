@@ -39,28 +39,22 @@ See for example [Dr Nicolas Figay](https://www.linkedin.com/pulse/upper-ontologi
 Furthermore, dealing with the discourse of knowledge graphs, there’s also a whole scenario about Enterprise Knowledge Graphs (EKG), where the passage from the field-taxonomies to the very heart of the ontology is clear. Of course, as we can see,  supply chain is involved in all of this. This means having some things produced and some things consumed. Let's dive into this conversation.
 
 ### An ontology for codesign: pro and contra
-=== "PRO"
+PRO
+The idea of a Linked Data Infrastructure to support actions of citizen curation is not new, see [spice project](https://github.com/AKSW/w3id-tester/tree/f370c58b425e32fd0f709142563b9832266673ee/w3id/spice) of the Horizon 2020, for example. Nevertheless, here we intend to investigate what professionists that work with co-creation practices can do, regarding the various outputs.
 
-    Bibliography (1)
-    { .annotate }
+In the case of co-creation practices, more precisely of practices leading hopefully to a change, is obvious that 1) certain results are not guaranteed, and some will never be reached 2) user involvment in planning, implementation and evaluation of projects takes a lot of the available resources from the actors and the environment itself.
 
-    1.  links_[1](https://www.codesignwithdata.com/papers/codesignwithdata.pdf) [2](https://researchinvolvement.biomedcentral.com/articles/10.1186/s40900-022-00392-4#ref-CR9) [3](https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=3092&context=drs-conference-papers) [4](https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=3092&context=drs-conference-papers) [5](https://www.ifad.org/documents/38714170/39144386/PM_web.pdf/7c1eda69-8205-4c31-8912-3c25d6f90055)
+Sure is that codesign practices represent an established way to give voice to different communities, addressing multifaceted issues and dealing with power flows in the contemporary city.
 
-    The idea of a Linked Data Infrastructure to support actions of citizen curation is not new, see [spice project](https://github.com/AKSW/w3id-tester/tree/f370c58b425e32fd0f709142563b9832266673ee/w3id/spice) of the Horizon 2020, for example. Nevertheless, here we intend to investigate what professionists that work with co-creation practices can do, regarding the various outputs.
+The intuition for the project came after providing prototype panels of the F4C into the Transition Pathways.
 
-    In the case of co-creation practices, more precisely of practices leading hopefully to a change, is obvious that 1) certain results are not guaranteed, and some will never be reached 2) user involvment in planning, implementation and evaluation of projects takes a lot of the available resources from the actors and the environment itself.
+This can be a way of giving ontology development a try and also having the possibility to rewrite the narrative of a  cross-disciplinary team in ontology modelling.
 
-    Sure is that codesign practices represent an established way to give voice to different communities, addressing multifaceted issues and dealing with power flows in the contemporary city.
+The idea of an ontology dealing with the concept of change is thrilling: “change” can mean a lot of different outputs regarding the situation.
 
-    The intuition for the project came after providing prototype panels of the F4C into the Transition Pathways.
+CONTRA
 
-    This can be a way of giving ontology development a try and also having the possibility to rewrite the narrative of a  cross-disciplinary team in ontology modelling.
-
-    The idea of an ontology dealing with the concept of change is thrilling: “change” can mean a lot of different outputs regarding the situation.
-
-=== "CONTRA"
-
-    Ontology mapping provides the possibility to move from a two-dimensional, relational database to the visually appealing knowledge graph. A knowledge graph represents relations among classes and abstracts reality. However, this could result in an underrepresentation of certain ecosystem dynamics and their communities' interests. Co-design is also a complex process. Furthermore, since design is in itself a process of changing current situations in favor of a solution-based one, it can be difficult for designer to know where to start and how to approach a knowledge graph creation.
+Ontology mapping provides the possibility to move from a two-dimensional, relational database to the visually appealing knowledge graph. A knowledge graph represents relations among classes and abstracts reality. However, this could result in an underrepresentation of certain ecosystem dynamics and their communities' interests. Co-design is also a complex process. Furthermore, since design is in itself a process of changing current situations in favor of a solution-based one, it can be difficult for designer to know where to start and how to approach a knowledge graph creation.
 
 
 ### The visual rendering of the zeitgeist: from data to co-design
@@ -74,3 +68,6 @@ Practices of **self-data visualization** are just one of the forms of dealing wi
 
 **Even if this change-during-time seems to be difficult to display in ontological terms, we rely on the abstraction of concepts, starting form nothing less than the F4C. When developed, the ontology will be a tool to approach other designers and professionists to deal with this piece of open knowledge.**
 
+
+### Bibliogtaphy
+[1](https://www.codesignwithdata.com/papers/codesignwithdata.pdf) [2](https://researchinvolvement.biomedcentral.com/articles/10.1186/s40900-022-00392-4#ref-CR9) [3](https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=3092&context=drs-conference-papers) [4](https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=3092&context=drs-conference-papers) [5](https://www.ifad.org/documents/38714170/39144386/PM_web.pdf/7c1eda69-8205-4c31-8912-3c25d6f90055)
