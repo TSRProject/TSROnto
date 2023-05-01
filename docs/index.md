@@ -1,13 +1,13 @@
-# The project_[An ontology-for-change][welcome]
+# The project_An ontology-for-change
 This project is born with the intent of starting a conversation and an investigation about co-design practices that have as main aim a declination of the term "change".
-  [welcome]: "Welcome!"
+  
 
 Finally, 
 {==
 **this is a work in progress, feel free to consult the repository on the top right of this page*
 ==}
 
-## Assumptions
+## Main Assumptions
 ### Change or transformation?
 Transformation is for sure more unpredictable then changing, that is set up with a clear goal in mind. The word "transformation" indicates an action during an unknown amount of time, and therefore unpredictable.
 In an international scenario,  interest towards change in agencies or other types of organizations have been increasing in the last years, so that we can talk about ["Change management"](https://www.open-knowledge.it/service-design-e-change-management/). 
