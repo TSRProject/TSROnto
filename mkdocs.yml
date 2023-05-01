@@ -1,12 +1,25 @@
 site_name: TesseraeOnto
 site_url: https://tsrproject.github.io/TSROnto/
 
+
+nav:
+    - Home: index.md
+    - Info: info.md
+    - Glossary: gloss.md
+    - Bibliography: biblio.md
+
+site_author: Giusy Grieco
+site_description: documentation for ontologies on co-design practices research
+
+
+repo_name: TSROnto
+repo_url: https://github.com/TSRProject/TSROnto/
+
 theme:
   name: material
-
   features:
     - navigation.tabs
-    - navigation.tabs.sticky
+    - navigation.top
     - navigation.sections
     - navigation.instant
     - navigation.tracking
@@ -17,7 +30,6 @@ theme:
     - navigation.footer
     - toc.integrate
     - toc.follow
-    - navigation.top
     - search.suggest
     - search.highlight
     - content.tabs.link
@@ -52,8 +64,6 @@ language: en
 
 
 
-nav:
-    - Home: index.md
 
 extra:
   version:
