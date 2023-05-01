@@ -44,7 +44,7 @@ Furthermore, dealing with the discourse of knowledge graphs, there’s also a wh
     Bibliography (1)
     { .annotate }
 
-    1. [1](https://www.codesignwithdata.com/papers/codesignwithdata.pdf) [2](https://researchinvolvement.biomedcentral.com/articles/10.1186/s40900-022-00392-4#ref-CR9) [3](https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=3092&context=drs-conference-papers) [4](https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=3092&context=drs-conference-papers) [5](https://www.ifad.org/documents/38714170/39144386/PM_web.pdf/7c1eda69-8205-4c31-8912-3c25d6f90055)
+    1. links_[1](https://www.codesignwithdata.com/papers/codesignwithdata.pdf) [2](https://researchinvolvement.biomedcentral.com/articles/10.1186/s40900-022-00392-4#ref-CR9) [3](https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=3092&context=drs-conference-papers) [4](https://dl.designresearchsociety.org/cgi/viewcontent.cgi?article=3092&context=drs-conference-papers) [5](https://www.ifad.org/documents/38714170/39144386/PM_web.pdf/7c1eda69-8205-4c31-8912-3c25d6f90055)
 
     The idea of a Linked Data Infrastructure to support actions of citizen curation is not new, see [spice project](https://github.com/AKSW/w3id-tester/tree/f370c58b425e32fd0f709142563b9832266673ee/w3id/spice) of the Horizon 2020, for example. Nevertheless, here we intend to investigate what professionists that work with co-creation practices can do, regarding the various outputs.
 
