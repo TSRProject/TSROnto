@@ -24,7 +24,9 @@ theme:
     - content.code.annotation
     - content.code.copy
     - content.tooltips
+
 language: en
+
 palette:
   - scheme: default
     toggle:
