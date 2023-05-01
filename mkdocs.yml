@@ -57,6 +57,3 @@ extra:
   version:
     provider: mike
 
-  social:
-    - icon: fontawesome/brands/mastodon
-      link: https://fosstodon.org/@squidfunk
