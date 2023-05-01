@@ -6,8 +6,16 @@ theme:
 
   features:
     - navigation.tabs
+    - navigation.tabs.sticky
     - navigation.sections
+    - navigation.instant
+    - navigation.tracking
+    - navigation.expand
+    - navigation.path
+    - navigation.prune
+    - navigation.indexes
     - toc.integrate
+    - toc.follow
     - navigation.top
     - search.suggest
     - search.highlight
@@ -36,3 +44,6 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+
+nav:
+    - Home: index.md
