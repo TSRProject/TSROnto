@@ -1,3 +1,34 @@
+  <header>
+    <h1>We love testing <br /> new flavors</h1>
+    <a href="#">
+      <i class="fa-solid fa-arrow-right-long"></i>
+      Book a table</a>
+  </header>
+  <footer>
+    <div class="arrows">
+      <i class="fa-solid fa-arrow-left"></i>
+      <i class="fa-solid fa-arrow-right"></i>
+    </div>
+    <div class="idea">
+      <div class="left-col">
+        <a href="#" class="img-container">
+          <img src="https://images.unsplash.com/photo-1506459225024-1428097a7e18?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=387&q=80" alt=" Cake with blueberries, mascarpone cheese and whipped cream">
+        </a>
+      </div>
+      <div class="right-col">
+        <a href="#">
+          Cake with blueberries, mascarpone cheese and <span>whipped cream</span>
+        </a>
+      </div>
+    </div>
+    <div class="icons">
+      <i class="fa-brands fa-facebook-f"></i>
+      <i class="fa-brands fa-twitter"></i>
+      <i class="fa-brands fa-instagram"></i>
+    </div>
+  </footer>
+
+
 # The project_An ontology-for-change
 This project is born with the intent of starting a conversation and an investigation about co-design practices that have as main aim a declination of the term "change".
   
