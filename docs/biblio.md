@@ -1,3 +1,4 @@
 - [Editorial Board Repo](https://github.com/TSRProject/Editorial-Curation)
 - [Ontology Development Kit](https://github.com/INCATools/ontology-development-kit)
 - [Guidelines for writing definitions in ontologies](https://philpapers.org/archive/SEPGFW.pdf)
+- [OBO Academy tutorials](https://www.youtube.com/@obo-academy)
