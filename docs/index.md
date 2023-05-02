@@ -20,7 +20,11 @@ In todays's concerning of agencies and corporations,  co-design and partecipativ
 What we want to say is that, among with other issues, that of "low efficacy" seems strictly related to the adaptation of design strategies. Co-design practices, therefore ensure the concepts of inclusivity and sustainability.
 
 ### Frame for change
-![Frame for Change](TSRProject/TSROnto/docs/img/Tesserae_Frame4Change-09.jpg)
+<figure markdown>
+  ![Frame for Change](TSRProject/TSROnto/docs/img/Tesserae_Frame4Change-09.jpg){ width="300" }
+  <figcaption>Frame for Change</figcaption>
+</figure>
+
 Framework for Change, ideated by Tesserae, provides a basic logic framework to understand the complexity of factors influencing the development of inclusive, participated and integrated projects. It is a conceptual map to navigate transformative processes at large, completed by a set of questions that you should ask yourself along the path and a collection of tools to inspire visionary and inclusive solutions.
 
 The framework is based on four basic dimensions of change (fields), four essential variables and eight key moments.
