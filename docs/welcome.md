@@ -7,3 +7,8 @@ and propose recommendation for project sustainment and openess. It has three key
 shifts in supply and demand;
 3. Developing a communication board to ensure dialogue and sustainability for the project and for supporting future trends monitoring.
 The study team relied on a multi-method approach, which included literature review, data analysis, stakeholders mapping and past experiences.
+
+
+# How to use this documentation
+Feel free to read the documentation here, or making changes in the repository accessible on the top right of this page.
+**This is a work in progress**.
