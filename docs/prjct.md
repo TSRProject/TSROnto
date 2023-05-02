@@ -27,14 +27,14 @@ Framework for Change, ideated by Tesserae, provides a basic logic framework to u
 The framework is based on four basic dimensions of change (fields), four essential variables and eight key moments.
 
 At the centre of the scheme is the function of alignment, which represents the key role of those in charge of steering a transformative process: facilitators, managers, planners, project coordinators,  community activators . Their essential responsibility is to enhance the alignment of different perspectives and variables and to coordinate tasks and responsibilities.
-*[F4C]: Framework for change
 
-### Maps, diagrams… the conceptualization of the zeitgeist
+
+### Maps, diagrams…
 Aoart from that of communication, the fields of research are moving towards a visual and impactful way of representing concepts. Maps, diagrams and networks are by far the most used words in content creation in and outside academic circles.
 
 See for example [Dr Nicolas Figay](https://www.linkedin.com/pulse/upper-ontologies-dr-nicolas-figay/) explainining the difference of System Design Language (UML2/SysML) and Enterprise Architecture (ArchiMate): *"If UML is a software system design language, relying on object and component paradigms, ArchiMate is an architectural description language (as defined by ISO 42010), aiming at describing enterprise working environment and planning its transformation”*. These two methods clearly they do not support a layered architecture.
 
-[The most common upper ontologies](/ontologies.jpg)
+![The most common upper ontologies](https://github.com/TSRProject/Editorial-Curation/blob/3a3147534e953a3c8b4ca1efed295293f5432c45/img/ontologies.jpeg)
 
 Furthermore, dealing with the discourse of knowledge graphs, there’s also a whole scenario about Enterprise Knowledge Graphs (EKG), where the passage from the field-taxonomies to the very heart of the ontology is clear. Of course, as we can see,  supply chain is involved in all of this. This means having some things produced and some things consumed. Let's dive into this conversation.
 
