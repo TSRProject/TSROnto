@@ -21,7 +21,7 @@ What we want to say is that, among with other issues, that of "low efficacy" see
 
 ### Frame for change
 <figure markdown>
-  ![Frame for Change](TSRProject/TSROnto/docs/img/Tesserae_Frame4Change-09.jpg){ width="300" }
+  ![Frame for Change](https://github.com/TSRProject/TSROnto/blob/747c4a2495b8d0969aac3e17d5f1cd594f000caa/docs/img/Tesserae_Frame4Change-09.jpg){ width="300" }
   <figcaption>Frame for Change</figcaption>
 </figure>
 
