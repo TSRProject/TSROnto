@@ -68,3 +68,27 @@ Practices of **self-data visualization** are just one of the forms of dealing wi
 ## **Even if this change-during-time seems to be difficult to display in ontological terms, we rely on the abstraction of concepts, starting form nothing less than the F4C. When developed, the ontology will be a tool to approach other designers and professionists to deal with this piece of open knowledge.**
 
 # Research Questions 
+*(What we want to inspect and our expectations)*
+
+As a starting point for our research we started from the Framework For Change Developed by us.
+
+The Framework for change is also a tool used in the Transition Pathways in the occasion of the European project Horizon2020.
+
+When adopting the Framework For Change, main goal in the context of a project is the development of:
+- inclusive
+- participated
+- integrated
+projects.
+
+Therefore, we asked ourselves:
+
+0) Why do we want to develop an ontology?
+Because it’s an interesting investigation. Because this could be a way to develop a vocabulary for semantic mapping (link= [https://en.wikipedia.org/wiki/Semantic_mapper](https://en.wikipedia.org/wiki/Semantic_mapper)) and community dialogue.
+
+An ontology is the formalization of a classification gathered from a precise terminology, belonging to a precise domain made by textual and machine readable definitions [rif](https://oboacademy.github.io/obook/lesson/ontology-term-use/#explain)
+
+1) What aspects of the ontology development we want to use to enhance the concept of change in co-design practices? Co-designing for a common environment inhabited by different actors is an integral part of the organic procedure for change. Therefore we want to enhance a better cooperation and trust building between stakeholders and citizens.
+
+2) What are the liits of past works that we can hopefully work on? [in progress]
+
+3) Are we interested in developing a simple Domain Ontology or a Top-Domain one? Of course, a top-domain ontology is a long and interesting process. As stated before, this project starts as an investigation.
