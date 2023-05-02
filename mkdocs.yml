@@ -64,6 +64,8 @@ theme:
     - pymdownx.details
     - pymdownx.superfences
     - pymdownx.mark
+    - attr_list
+    - md_in_html
 
 
 
@@ -82,4 +84,3 @@ extra_javascript:
 
 plugins:
   - search
-
