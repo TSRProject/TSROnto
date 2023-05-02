@@ -9,6 +9,7 @@ shifts in supply and demand;
 The study team relied on a multi-method approach, which included literature review, data analysis, stakeholders mapping and past experiences.
 
 
-# How to use this documentation
+## How to use this documentation
 Feel free to read the documentation here, or making changes in the repository accessible on the top right of this page.
 **This is a work in progress**.
+[Here](https://github.com/TSRProject/Editorial-Curation) You can access the repository relative to the Editorial Material, such as texts and issues regarding the ontology development from a logic and basic point of view.
