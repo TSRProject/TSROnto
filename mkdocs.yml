@@ -3,8 +3,8 @@ site_url: https://tsrproject.github.io/TSROnto/
 
 
 nav:
-    - Home: welcome.md
-    - The Project: index.md
+    - Home: index.md
+    - The Project: welcome.md
     - The Team Board: team.md
     - Glossary: gloss.md
     - Bibliography: biblio.md
