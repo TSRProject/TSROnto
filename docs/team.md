@@ -1,3 +1,1 @@
-# prova
-questa è una bellissima pagina di prova
-
+To prevent a limited and narrow perspective in knowledge production, it is imperative to enhance research methodologies and behaviors involved in constructing ontologies. This can be achieved through the implementation of indexing and filtering tools, drawing upon practices such as desk research and previous field research. Additionally, establishing a shared knowledge repository within the internal Github organization can facilitate collaboration and knowledge exchange.
